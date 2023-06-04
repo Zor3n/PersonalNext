@@ -22,7 +22,7 @@ export default function Hero() {
                                 <Link className='navbar-item' href="#about-me">Sobre mi</Link>
                                 <Link className='navbar-item' href="#skills">Habilidades</Link>
                                 <span className="navbar-item">
-                                    <a className="button is-dark" target='_blank'>
+                                    <a className="button is-dark" href='https://github.com/Zor3n/PersonalNext' target='_blank'>
                                         <span className="icon">
                                             <BsGithub />
                                         </span>
